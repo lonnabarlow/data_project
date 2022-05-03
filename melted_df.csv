@@ -1,0 +1,121 @@
+period,category,amount
+2021-01-01,Inventory,212.0
+2021-02-01,Inventory,572.0
+2021-03-01,Inventory,329.0
+2021-04-01,Inventory,386.0
+2021-05-01,Inventory,884.0
+2021-06-01,Inventory,124.0
+2021-07-01,Inventory,504.0
+2021-08-01,Inventory,191.0
+2021-09-01,Inventory,349.0
+2021-10-01,Inventory,598.0
+2021-11-01,Inventory,462.0
+2021-12-01,Inventory,250.0
+2022-01-01,Inventory,575.0
+2022-02-01,Inventory,328.0
+2022-03-01,Inventory,154.0
+2022-04-01,Inventory,
+2022-05-01,Inventory,
+2022-06-01,Inventory,
+2022-07-01,Inventory,
+2022-08-01,Inventory,
+2022-09-01,Inventory,
+2022-10-01,Inventory,
+2022-11-01,Inventory,
+2022-12-01,Inventory,
+2021-01-01,Inventory Forecast,
+2021-02-01,Inventory Forecast,
+2021-03-01,Inventory Forecast,
+2021-04-01,Inventory Forecast,
+2021-05-01,Inventory Forecast,
+2021-06-01,Inventory Forecast,
+2021-07-01,Inventory Forecast,
+2021-08-01,Inventory Forecast,
+2021-09-01,Inventory Forecast,
+2021-10-01,Inventory Forecast,
+2021-11-01,Inventory Forecast,
+2021-12-01,Inventory Forecast,
+2022-01-01,Inventory Forecast,
+2022-02-01,Inventory Forecast,
+2022-03-01,Inventory Forecast,154.0
+2022-04-01,Inventory Forecast,-346.49
+2022-05-01,Inventory Forecast,-475.04
+2022-06-01,Inventory Forecast,-475.63
+2022-07-01,Inventory Forecast,-475.2
+2022-08-01,Inventory Forecast,-475.2
+2022-09-01,Inventory Forecast,-475.25
+2022-10-01,Inventory Forecast,-475.84
+2022-11-01,Inventory Forecast,-475.38
+2022-12-01,Inventory Forecast,-1093.118
+2021-01-01,Inventory Forecast (10% Increased Demand),
+2021-02-01,Inventory Forecast (10% Increased Demand),
+2021-03-01,Inventory Forecast (10% Increased Demand),
+2021-04-01,Inventory Forecast (10% Increased Demand),
+2021-05-01,Inventory Forecast (10% Increased Demand),
+2021-06-01,Inventory Forecast (10% Increased Demand),
+2021-07-01,Inventory Forecast (10% Increased Demand),
+2021-08-01,Inventory Forecast (10% Increased Demand),
+2021-09-01,Inventory Forecast (10% Increased Demand),
+2021-10-01,Inventory Forecast (10% Increased Demand),
+2021-11-01,Inventory Forecast (10% Increased Demand),
+2021-12-01,Inventory Forecast (10% Increased Demand),
+2022-01-01,Inventory Forecast (10% Increased Demand),
+2022-02-01,Inventory Forecast (10% Increased Demand),
+2022-03-01,Inventory Forecast (10% Increased Demand),154.0
+2022-04-01,Inventory Forecast (10% Increased Demand),-396.539
+2022-05-01,Inventory Forecast (10% Increased Demand),-546.744
+2022-06-01,Inventory Forecast (10% Increased Demand),-672.493
+2022-07-01,Inventory Forecast (10% Increased Demand),-723.32
+2022-08-01,Inventory Forecast (10% Increased Demand),-801.02
+2022-09-01,Inventory Forecast (10% Increased Demand),-839.975
+2022-10-01,Inventory Forecast (10% Increased Demand),-969.824
+2022-11-01,Inventory Forecast (10% Increased Demand),-1010.918
+2022-12-01,Inventory Forecast (10% Increased Demand),-1690.4298
+2021-01-01,Demand,220.0
+2021-02-01,Demand,930.0
+2021-03-01,Demand,412.0
+2021-04-01,Demand,434.0
+2021-05-01,Demand,197.0
+2021-06-01,Demand,1535.0
+2021-07-01,Demand,360.0
+2021-08-01,Demand,766.0
+2021-09-01,Demand,469.0
+2021-10-01,Demand,1218.0
+2021-11-01,Demand,543.0
+2021-12-01,Demand,448.0
+2022-01-01,Demand,572.0
+2022-02-01,Demand,950.0
+2022-03-01,Demand,692.0
+2022-04-01,Demand,500.49
+2022-05-01,Demand,216.55
+2022-06-01,Demand,1251.59
+2022-07-01,Demand,512.57
+2022-08-01,Demand,777.0
+2022-09-01,Demand,389.05
+2022-10-01,Demand,1292.59
+2022-11-01,Demand,415.54
+2022-12-01,Demand,617.738
+2021-01-01,Production Forecast,
+2021-02-01,Production Forecast,
+2021-03-01,Production Forecast,
+2021-04-01,Production Forecast,
+2021-05-01,Production Forecast,
+2021-06-01,Production Forecast,
+2021-07-01,Production Forecast,
+2021-08-01,Production Forecast,
+2021-09-01,Production Forecast,
+2021-10-01,Production Forecast,
+2021-11-01,Production Forecast,
+2021-12-01,Production Forecast,
+2022-01-01,Production Forecast,
+2022-02-01,Production Forecast,
+2022-03-01,Production Forecast,
+2022-04-01,Production Forecast,
+2022-05-01,Production Forecast,88.0
+2022-06-01,Production Forecast,1251.0
+2022-07-01,Production Forecast,513.0
+2022-08-01,Production Forecast,777.0
+2022-09-01,Production Forecast,389.0
+2022-10-01,Production Forecast,1292.0
+2022-11-01,Production Forecast,416.0
+2022-12-01,Production Forecast,

@@ -1,0 +1,31 @@
+﻿Lonna Barlow
+Capstone MVP Plan
+Data Analytics
+
+
+
+
+Overview: 
+        I will be storing the data on the backend, but transforming the data through Python Web Apps to give the user an interactive experience with the data. Using different models the client can scale and see hands on. My goal is to take the data from the analysis side and cross over to the client side making the data relatable and understandable for a client that may not know what the backend of data sets looks like. I am aiming for a project that can translate into real world job application with the data side as well business/client success side. 
+
+
+
+
+Dataset Description:
+        The data for this project will be uploaded and then processed and stored on a database that will be hosted to a site that clients can access, view, and interact with. 
+
+
+EDA:
+        When exploring this data I will be sifting through the sets to make sure that I have valuable and viable data that can be transformed, tracked and forecasted, this may include sanitizing things from the sets and prepping items to be used in equations to make projections.
+
+
+Data Wrangling:
+        I will be sorting through, cleaning, and sanitizing the data looking for analysis to show important data the client will be looking for. Such as: What items are the most volatile? Which items are in the top 80% of sales? What items are the easiest to track?  How many high volume items are found? as well as forecasting.
+
+
+Statistical Analysis:
+        I will be showcasing correlations and data queries that track, plot, and forecast information to the client through charts, graphs, and interactive mapping of the data, targeting items that are predictors for specific queries to be forecasted. The site will host the apps to be a tool for the client to return to and make projections with the outputs.
+
+
+Project Findings:
+        I hope to convey the findings in a way that a client who has no idea of the backend of the data can visualize and understand the models presented.
